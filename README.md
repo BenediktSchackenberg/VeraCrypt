@@ -50,8 +50,8 @@ Requirements for Building VeraCrypt for Windows:
 - Microsoft Windows Driver Kit 7.1.0 (build 7600.16385.1)
 - RSA Security Inc. PKCS #11 Cryptographic Token Interface (Cryptoki) 2.20
   header files (available at ftp://ftp.rsasecurity.com/pub/pkcs/pkcs-11/v2-20)
-- NASM assembler 2.08 or compatible
-- gzip compressor
+- NASM assembler 2.08 or compatible(Copy NASM.EXE in YOURPATH_Microsoft Visual Studio XY.0\VC\bin)
+- gzip compressor(Copy GZIP.EXE in YOURPATH_Microsoft Visual Studio XY.0\VC\bin)
 - upx packer (available at http://upx.sourceforge.net/)
 
 IMPORTANT:
